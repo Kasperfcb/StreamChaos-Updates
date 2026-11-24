@@ -1,11 +1,5 @@
-# StreamChaos — Official downloads
+# StreamChaos — development test feed
 
-StreamChaos is a Windows desktop application for interactive streaming effects. This public repository distributes compiled releases; the development source remains private.
+This repository contains versioned binaries and a checksum manifest for the in-app updater. It is not an official public product release. Source code is kept in a private repository. Test files are publicly accessible.
 
-## Download
-
-The first release is being prepared. Once published, download `StreamChaos.exe` from [Releases](https://github.com/Kasperfcb/StreamChaos-Updates/releases) into a writable folder and run it. Windows 10/11 x64 is required.
-
-Use **CHECK FOR UPDATES** in the app to install future releases. No GitHub account, GitHub CLI or compiler is required. Updates ask for confirmation and retain a backup of the previous executable.
-
-Development preview: binaries are not yet digitally signed. Do not disable Windows security to install an untrusted download.
+After receiving an initial StreamChaos.exe from the developer, use **CHECK FOR UPDATES** in the app. No GitHub login or CLI is required. Binaries are unsigned during development; Windows security may block them.
